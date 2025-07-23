@@ -58,7 +58,7 @@ CPU-Scheduling-Algorithms/
 
    git clone https://github.com/Abanoub-Emad/CPU-Scheduling-Algorithms.git
    cd CPU-Scheduling-Algorithms
-````
+
 
 2. Compile and run the application:
 
