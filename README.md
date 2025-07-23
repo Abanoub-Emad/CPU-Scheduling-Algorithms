@@ -1,6 +1,5 @@
 # CPU-Scheduling-Algorithms
 
-```markdown
 # CPU Scheduling Algorithms Visualizer
 
 A **Java GUI-based project** that simulates and visualizes multiple CPU scheduling algorithms.  
