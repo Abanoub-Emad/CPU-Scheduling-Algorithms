@@ -55,7 +55,7 @@ CPU-Scheduling-Algorithms/
 ## 📚 How to Run
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/Abanoub-Emad/CPU-Scheduling-Algorithms.git
    cd CPU-Scheduling-Algorithms
 ````
@@ -65,10 +65,10 @@ CPU-Scheduling-Algorithms/
    * Using an IDE (like **NetBeans** or **IntelliJ**)
    * Or from terminal:
 
-     ```bash
+
      javac src/schedulermain/*.java
      java schedulermain.SchedulerMain
-     ```
+
 
 > Make sure you have Java 8+ installed.
 
