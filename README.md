@@ -28,6 +28,9 @@ This project was developed as part of an **Operating Systems course** assignment
 
 ## 📷 Demo Screenshots
 
+<img width="584" height="461" alt="CPU Scheduling Algorithms" src="https://github.com/user-attachments/assets/387d81f0-011e-4f21-9f17-7986144804c4" />
+
+![Screenshot ](https://github.com/user-attachments/assets/c5a389a8-af0e-4dda-9a2d-a3fcac4e5162)
 
 ## 📁 Project Structure
 
